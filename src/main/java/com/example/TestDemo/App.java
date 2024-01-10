@@ -10,7 +10,5 @@ public class App
     {
         System.out.println( "Hello World!" );
         System.out.println( "Hello World! Java" );
-        for(int i=0;i<=10;i++){
-            System.out.println( "Hello World!" +i );
-    }
+       
 }
