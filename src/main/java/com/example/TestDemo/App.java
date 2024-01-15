@@ -10,7 +10,8 @@ public class App
     {
         System.out.println( "Hello World!" );
         System.out.println( "Hello World! Java" );
-        int a=9int v=9;
+        int a=9;
+        int v=9;
        
        
 }
